@@ -7,9 +7,9 @@
 #define LeftMotorSpeed D2  // D2 <-> IN3
 #define LeftMotorDir D4  // D4 <-> IN4
  
-char auth[] = "YuzhyzZaVdWkWIaNXlyVLcYdmIuJLKEN";
-char ssid[] = "MyCAT4G";
-char pass[] = "12345678";
+char auth[] = "***************************";//use your key in blynk app
+char ssid[] = "MyCAT4G";//wifi
+char pass[] = "******************";//wifi password
  
 void setup()
 {
